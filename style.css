@@ -1,0 +1,22 @@
+#shoppingListContainer {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+#itemInput {
+    width: 70%;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    background-color: #f2f2f2;
+    margin-top: 5px;
+    cursor: pointer;
+}
